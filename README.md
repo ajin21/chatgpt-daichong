@@ -103,3 +103,15 @@ ChatGPT Plus / Pro 怎么充值、怎么买会员？国内用户常见的选择�
 - [OpenAI 帮助中心：取消 ChatGPT 订阅](https://help.openai.com/en/articles/7232927-canceling-your-chatgpt-subscription)
 
 资料核对日期：2026-10-20。关于 Plus 方案与订阅管理，请参阅上方 OpenAI 帮助中心原文。本文为独立整理，不代表 OpenAI。ChatGPT、OpenAI 及相关名称归各自权利人所有。价格、套餐、模型、额度和试用政策可能变化，购买前请再次核对官方页面与实际订单说明。
+
+## 你可能还在搜索
+
+- **国内怎么购买或充值 ChatGPT Plus / Pro？** 查看[ChatGPT Plus / Pro 购买与充值指南](docs/chatgpt-plus-purchase.md)，比较第三方服务、Google Play 和 App Store 等方式。
+- **没有海外信用卡，怎么开通 ChatGPT Plus？** 先看[购买与充值指南](docs/chatgpt-plus-purchase.md)中的方式对比，再按自己的设备和付款条件选择；第三方服务并非 OpenAI 官方直付。
+- **支付宝或微信可以购买 ChatGPT Plus 吗？** 不同支付方式对应不同订阅渠道；第三方服务当前支持情况及规则以其购买页为准，选择前可阅读[第三方服务注意事项](docs/chatgpt-plus-purchase.md)。
+- **ChatGPT Plus / Pro 价格多少，额度是多少，有免费试用吗？** 价格、额度和试用资格可能变化，请查看[价格、额度与免费试用说明](docs/chatgpt-plus-price-quota-trial.md)及本人页面的实际信息。
+- **Google Play 扣款后没有显示 Plus，或 App Store 礼品卡怎么订阅？** 查看[购买与充值指南](docs/chatgpt-plus-purchase.md)中的应用商店步骤和付款核对方法。
+- **ChatGPT Plus 付款后没到账、怎么续费或取消？** 参阅[充值与会员常见问题](docs/faq.md)，并先通过原付款渠道核对订单状态。
+- **ChatGPT Plus 付款失败、信用卡被拒怎么办？** 先查看实际付款渠道给出的错误信息；若已经扣款，先查原订单，不要重复付款。可参考[购买与充值指南](docs/chatgpt-plus-purchase.md)核对订阅渠道和付款后处理步骤。
+- **ChatGPT Plus 还没到期，可以升级到 Pro 吗？** 是否能升级、升级价格及剩余订阅如何处理，以本人账号当前显示的方案和结账页面为准；选择第三方服务时，先确认订单说明中的套餐、费用和有效期。
+- **ChatGPT Plus 和 Pro 有什么区别，应该选哪个？** 方案权益、可用功能和使用限制可能变化，购买前请在本人账号当前方案页面比较功能、价格与周期；也可先读[购买与充值指南](docs/chatgpt-plus-purchase.md)了解不同购买方式及各自条件。
